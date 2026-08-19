@@ -6,7 +6,7 @@ A focused notebook-based project that detects fraudulent credit card transaction
 
 ##  Project Overview
 
-This repo provides a standalone Jupyter notebook (`Icredit_card_fraud_detection.ipynb`) which includes:
+This repo provides a standalone Jupyter notebook (`Credit_Card_Fraud_Detection.ipynb`) which includes:
 - Exploratory data analysis on credit card transactions
 - Feature engineering and preprocessing steps
 - Model training, validation, and evaluation for fraud detection
@@ -21,8 +21,8 @@ Apart from that this repo includes:
 Credit Card Fraud Detection/
 │
 ├── Dataset.zip                                # Dataset for transactions and labels
-├── Hackathon_Documentation_Prime Transformers.pdf  # Hackathon report
-└── IDFC_Convolve_Hackathon.ipynb             # Interactive notebook with code and results
+├── Documentation_.pdf
+└── Credit_Card_Fraud_Detection_n.ipynb             # Interactive notebook with code and results
 ```
 
 ---
@@ -34,7 +34,7 @@ Credit Card Fraud Detection/
          unzip Dataset.zip -d dataset/  
 2. Launch the notebook environment:
  
-         jupyter notebook IDFC_Convolve_Hackathon.ipynb  
+         jupyter notebook Credit_Card_Fraud_Detection_.ipynb  
 3. Run all cells to reproduce analysis, model training, and evaluation.
 
 ---
