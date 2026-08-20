@@ -22,7 +22,7 @@ Credit Card Fraud Detection/
 │
 ├── Dataset.zip                                # Dataset for transactions and labels
 ├── Documentation_.pdf
-└── Credit_Card_Fraud_Detection_n.ipynb             # Interactive notebook with code and results
+└── Credit_Card_Fraud_Detectionn.ipynb             # Interactive notebook with code and results
 ```
 
 ---
