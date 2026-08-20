@@ -22,7 +22,7 @@ Credit Card Fraud Detection/
 │
 ├── Dataset.zip                                # Dataset for transactions and labels
 ├── Documentation_.pdf
-└── Credit_Card_Fraud_Detectionn.ipynb             # Interactive notebook with code and results
+└── Credit_Card_Fraud_Detection.ipynb             # Interactive notebook with code and results
 ```
 
 ---
@@ -34,7 +34,7 @@ Credit Card Fraud Detection/
          unzip Dataset.zip -d dataset/  
 2. Launch the notebook environment:
  
-         jupyter notebook Credit_Card_Fraud_Detection_.ipynb  
+         jupyter notebook Credit_Card_Fraud_Detection.ipynb  
 3. Run all cells to reproduce analysis, model training, and evaluation.
 
 ---
