@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-A focused notebook-based project that detects fraudulent credit card transactions using machine learning techniques, documented for an credit card fraud detection..
+A notebook-based machine learning project for detecting fraudulent credit card transactions through data preprocessing, exploratory analysis, feature engineering, model training, and evaluation.
 
 ---
 
