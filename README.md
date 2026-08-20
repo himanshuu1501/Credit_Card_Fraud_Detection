@@ -21,7 +21,7 @@ Apart from that this repo includes:
 Credit Card Fraud Detection/
 │
 ├── Dataset.zip                                # Dataset for transactions and labels
-├── Documentation_.pdf
+├── Documentation.pdf
 └── Credit_Card_Fraud_Detection.ipynb             # Interactive notebook with code and results
 ```
 
